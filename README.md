@@ -1,2 +1,2 @@
 # html-portfolio
-My website for study languages web
+My website for study web languages.
